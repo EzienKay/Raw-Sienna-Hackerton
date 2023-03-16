@@ -121,6 +121,12 @@ rspec spec
 - Twitter: [@twitterhandle](https://twitter.com/profsain)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain)
 
+👤 **Adigun Taiwo Oluwatomisin**
+
+- GitHub: [@githubhandle](https://github.com/tommy)
+- Twitter: [@twitterhandle](https://twitter.com/tommy)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tommy)
+
 
 ## Future Feature
 - Add users account
