@@ -121,6 +121,11 @@ rspec spec
 - Twitter: [@twitterhandle](https://twitter.com/profsain)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/profsain)
 
+👤 **Kola Kelly Ajayi**
+
+- GitHub: [@githubhandle](https://github.com/EzienKay)
+- Twitter: [@twitterhandle](https://twitter.com/EzienKay)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/EzienKay)
 
 ## Future Feature
 - Add users account
