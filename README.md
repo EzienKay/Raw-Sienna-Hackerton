@@ -128,6 +128,12 @@ rspec spec
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tommy)
 
 
+👤 **Kola Kelly Ajayi**
+
+- GitHub: [@githubhandle](https://github.com/EzienKay)
+- Twitter: [@twitterhandle](https://twitter.com/EzienKay)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/EzienKay)
+
 ## Future Feature
 - Add users account
 - Sending greeting message to group
